@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#FFF0F5"/>
+  <rect x="10.5" y="10.5" width="279" height="379" fill="none" stroke="#FFD0E0" stroke-width="1"/>
+  <text x="150" y="188" text-anchor="middle" font-family="'Noto Sans TC',sans-serif" font-size="13" fill="#C9285F" letter-spacing="2">圖檔遺失</text>
+  <text x="150" y="212" text-anchor="middle" font-family="Consolas,monospace" font-size="10" fill="#C9285F" letter-spacing="1">IMAGE NOT FOUND</text>
+</svg>
